@@ -3,8 +3,9 @@
 [Problem Statement](#problem-statement)
 [Data Sourse](#data-sourse)
 [Tools](#tools)
-[Dashboard](Dashboard)
-[]
+[Dashboard](#dashboard)
+[M Code](#m-code)
+[Recomendations](#recomendations)
 ###  Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres. Your task is to build an Excel dashboard that provides insights into this dataset. The dashboard should help identify:
 - The best-performing actors
@@ -31,3 +32,10 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 - Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Dashbord](https://github.com/user-attachments/files/23812101/MOVIE.DATA.DASHBOARD.xlsx)
 
 ### Dashboard
+<img width="982" height="779" alt="Screenshot 2025-11-27 at 4 52 04 PM" src="https://github.com/user-attachments/assets/d63e158d-be49-41be-a827-e2fa17a0848a" />
+
+### M Code
+```
+
+```
+### Recomendations
