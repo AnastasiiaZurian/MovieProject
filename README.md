@@ -32,6 +32,7 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 - Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Dashbord](https://github.com/user-attachments/files/23812101/MOVIE.DATA.DASHBOARD.xlsx)
 
 ### Dashboard
+<img width="1165" height="783" alt="Screenshot 2025-11-27 at 5 14 38 PM" src="https://github.com/user-attachments/assets/8d049843-46e5-4384-afca-b44b0612fbdf" />
 
 
 ### M Code
