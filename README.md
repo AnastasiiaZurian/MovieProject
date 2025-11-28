@@ -29,3 +29,5 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 - Data loading and inspection.
 - Handling errors, missing values.
 - Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Dashbord](https://github.com/user-attachments/files/23812101/MOVIE.DATA.DASHBOARD.xlsx)
+
+### Dashboard
