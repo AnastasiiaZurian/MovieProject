@@ -32,7 +32,7 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 - Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Dashbord](https://github.com/user-attachments/files/23812101/MOVIE.DATA.DASHBOARD.xlsx)
 
 ### Dashboard
-<img width="982" height="779" alt="Screenshot 2025-11-27 at 4 52 04 PM" src="https://github.com/user-attachments/assets/d63e158d-be49-41be-a827-e2fa17a0848a" />
+
 
 ### M Code
 ```
@@ -68,3 +68,4 @@ in
     #"Changed Type1"
 ```
 ### Recomendations
+Top 5 genres are Action, Comedy, etc. I would recommend Netflix to produce a movie with one of these genres as they brought in more in box office revenie based on the data from 2012 to 2016
